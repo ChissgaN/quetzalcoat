@@ -42,13 +42,13 @@ function SliderImg() {
   };
 
   return (
-    <div className="w-full mt-16 max-sm:h-[450px] sm:h-[550px] md:h-[550px] lg:h-[500px]">
+    <div className="w-full mt-16 max-sm:h-[450px] sm:h-[550px] md:h-[450px] lg:h-[500px]">
       <Slider {...settings}>
         {images.map((image, index) => (
           <div key={index} className="my-2 flex w-screen">
             <img
               src={image}
-              className="max-sm:h-[400px] sm:h-[500px] w-full h-[250px] md:h-[450px] lg:h-[450px]"
+              className="max-sm:h-[400px] sm:h-[500px] w-full h-[250px] md:h-[400px] lg:h-[450px]"
               alt={`slide-${index}`}
             />
           </div>
