@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import sliderMobilUno from "../../assets/sliderMobileUno.png";
 import sliderMobilDos from "../../assets/sliderMobileDos.png";
-import sliderMobilTres from "../../assets/sliderMobileTres.png";
+import sliderMobilTres from "../../assets/sliderMobileTres.webp";
 import sliderUno from "../../assets/sliderUno.png";
 import sliderDos from "../../assets/sliderDos.png";
 import sliderTres from "../../assets/sliderTres.png";
@@ -18,7 +18,7 @@ function SliderImg() {
 
   useEffect(() => {
     const updateImages = () => {
-      if (window.innerWidth >= 768) { // Tailwind's 'md' breakpoint is 768px
+      if (window.innerWidth >= 768) {
         setImages([sliderUno, sliderDos, sliderTres]);
       } else {
         setImages([sliderMobilUno, sliderMobilDos, sliderMobilTres]);
@@ -42,13 +42,13 @@ function SliderImg() {
   };
 
   return (
-    <div className="w-full mt-16 md:h-[450px] lg:h-[500px]">
+    <div className="w-full mt-16 max-sm:h-[450px] sm:h-[550px] md:h-[550px] lg:h-[500px]">
       <Slider {...settings}>
         {images.map((image, index) => (
           <div key={index} className="my-2 flex w-screen">
             <img
               src={image}
-              className="max-sm:h-[290px] sm:h-[380px] w-full h-[250px] md:h-[450px] lg:h-[500px]"
+              className="max-sm:h-[400px] sm:h-[500px] w-full h-[250px] md:h-[450px] lg:h-[450px]"
               alt={`slide-${index}`}
             />
           </div>

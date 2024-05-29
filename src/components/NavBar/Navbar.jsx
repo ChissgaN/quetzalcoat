@@ -39,9 +39,17 @@ export default function NavBar() {
       <NavbarContent justify="end">
 
         <NavbarItem>
-          <Button as={Link} color="primary" href="#" variant="flat" className="font-semibold">
-            Asesoría!
-          </Button>
+        <Button
+        as="a"
+        href="https://wa.me/+50240378644"
+        color="primary"
+        variant="flat"
+        className="font-semibold"
+        target="_blank" 
+        rel="noopener noreferrer"
+      >
+        Asesoría!
+      </Button>
         </NavbarItem>
       </NavbarContent>
       <NavbarMenu>
