@@ -17,7 +17,7 @@ const Footer = () => {
       </div>
       <div className=''>
         <img className='mx-auto w-14 h-14' src={logo} alt="logo" />
-        <p className='m-0 text-white'>©2024 Quetzalcoat</p>
+        <p className='m-0 text-white text-center'>©2024 Quetzalcoat</p>
       </div>
     </footer>
   );
