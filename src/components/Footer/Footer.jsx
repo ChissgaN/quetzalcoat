@@ -4,7 +4,7 @@ import mail from '../../assets/mail.svg';
 import phone from '../../assets/call.svg';
 const Footer = () => {
   return (
-    <footer className='bg-[#092469] border border-red-600 w-full flex justify-between px-4'>
+    <footer className='bg-[#092469] w-full flex justify-between px-4'>
       <div className='py-4'>
         <a href='mailto:unikolorxela@gmail.com' className='flex gap-3 px-4' target='_blank' rel='noopener noreferrer'>
           <img src={mail} alt="mail" />
