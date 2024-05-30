@@ -41,7 +41,7 @@ export default function NavBar() {
         <NavbarItem>
         <Button
         as="a"
-        href="https://wa.me/+50240378644"
+        href="https://wa.me/50236885254"
         color="primary"
         variant="flat"
         className="font-semibold"

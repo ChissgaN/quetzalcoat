@@ -2,6 +2,7 @@ import React from 'react'
 import NavBar from '../NavBar/Navbar'
 import SliderImg from './Slider'
 import Options from './Options'
+import Footer from '../Footer/Footer'
 
 const Main = () => {
   return (
@@ -9,6 +10,7 @@ const Main = () => {
       <NavBar/>
       <SliderImg/>
       <Options/>
+      <Footer/>
     </div>
   )
 }
