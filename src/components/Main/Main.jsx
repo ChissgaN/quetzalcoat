@@ -1,8 +1,8 @@
-import React from 'react'
 import NavBar from '../NavBar/Navbar'
 import SliderImg from './Slider'
 import Options from './Options'
 import Footer from '../Footer/Footer'
+import Branches from './Branches'
 
 const Main = () => {
   return (
@@ -10,6 +10,7 @@ const Main = () => {
       <NavBar/>
       <SliderImg/>
       <Options/>
+      <Branches/>
       <Footer/>
     </div>
   )
