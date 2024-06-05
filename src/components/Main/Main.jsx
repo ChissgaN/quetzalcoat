@@ -3,6 +3,7 @@ import SliderImg from './Slider'
 import Options from './Options'
 import Footer from '../Footer/Footer'
 import Branches from './Branches'
+import Colorsyear from './Colorsyear'
 
 const Main = () => {
   return (
@@ -11,6 +12,7 @@ const Main = () => {
       <SliderImg/>
       <Options/>
       <Branches/>
+      <Colorsyear/>
       <Footer/>
     </div>
   )
