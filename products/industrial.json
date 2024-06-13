@@ -1,0 +1,50 @@
+{
+    "industrial": [
+      {
+        "id": 1,
+        "titulo": "Metales",
+        "nombre": "Metaltec 3 en 1",
+        "imagen": "../imgProducts/industrial/tresEnUno.png",
+        "precio": 120.50,
+        "descripcion": "Posee excelente adherencia, durabilidad y retención de brillo.",
+        "descripcionFull": "Pigmentos anticorrosivos, diseñado para preparar, proteger y decorar en un solo paso."
+      },
+      {
+        "id": 2,
+        "titulo": "Metales",
+        "nombre": "Metaltec Aluminio Estructuras y Mallas",
+        "imagen": "../imgProducts/industrial/aluminio.png",
+        "precio": 120.50,
+        "descripcion": "Ideal para aplicar en Mallas y estructuras Metálicas con acabado satinado.",
+        "descripcionFull": "Se puede aplicar en estructuras nuevas o descubiertas de hierro, acero, pero tambien para superficies ferrosas en general."
+      },
+      {
+        "id": 3,
+        "titulo": "Metales",
+        "nombre": "Corrotec Anticorrosivo al Agua",
+        "imagen": "../imgProducts/industrial/anticorrosivo.png",
+        "precio": 120.50,
+        "descripcion": "2 en 1 anticorrosivo y acabado, secado en 1 hora.",
+        "descripcionFull": "Adhesión sobre el galvanizado que impide el resquebrajamiento o desprendimiento con el tiempo."
+      },
+      {
+        "id": 4,
+        "titulo": "Metales",
+        "nombre": "Esmalte Industrial Fast Dry",
+        "imagen": "../imgProducts/industrial/fastDry.png",
+        "precio": 120.50,
+        "descripcion": "2 en 1 primario y acabado, puede ser usado como anticorrosivo de baja agresividad.",
+        "descripcionFull": "Especialmente para proteger estructuras y maquinarias, disponible en cartillas de colores o bases de coloreo."
+      },
+      {
+        "id": 5,
+        "titulo": "Metales",
+        "nombre": "Esmalte Alquídico",
+        "imagen": "../imgProducts/industrial/alquidico.png",
+        "precio": 120.50,
+        "descripcion": "Con alta durabilidad, acabado, resistencia a la interperie y fácil aplicación.",
+        "descripcionFull": "Recubrimiento que utiliza resinas alquídicas como su componente principal. Estas resinas se producen mediante la reacción de ácidos poliácidos con alcoholes polihídricos y son conocidas por su durabilidad y acabado brillante."
+      }
+    ]
+  }
+  

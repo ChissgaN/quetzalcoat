@@ -18,10 +18,12 @@ export default function NavBar() {
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
           className="sm:hidden"
         />
+        <Link href="/">
         <NavbarBrand>
           <img src={Logo} alt="logo" className="w-16 h-16 mt-1 mr-4"/>
           <p className="font-bold text-inherit mb-0 hidden sm:block">Quetzalcoat</p>
         </NavbarBrand>
+        </Link>
       </NavbarContent>
 
       <NavbarContent className="hidden sm:flex gap-8" justify="center">
