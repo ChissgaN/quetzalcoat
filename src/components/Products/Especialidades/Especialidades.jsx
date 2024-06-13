@@ -5,7 +5,7 @@ const Especialidades = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('/products/especialidades.json')
+    fetch('../../../../products/especialidades.json')
       .then((response) => response.json())
       .then((data) => {
         if (data && Array.isArray(data.especialidades)) {
