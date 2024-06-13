@@ -5,7 +5,7 @@ const Industriales = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('../../../../products/industrial.json')
+    fetch('/products/industrial.json')
       .then((response) => response.json())
       .then((data) => {
         if (data && Array.isArray(data.industrial)) {

@@ -5,7 +5,7 @@ const Arquitectonicos = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('../../../../products/arquitectonicos.json')
+    fetch('/products/arquitectonicos.json')
       .then((response) => response.json())
       .then((data) => {
         if (data && Array.isArray(data.arquitectonicos)) {
