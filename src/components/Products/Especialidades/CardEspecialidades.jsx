@@ -6,10 +6,10 @@ const CardEspecialidades = ({ imagen, nombre, descripcion, precio }) => {
           <img
             src={imagen}
             alt={nombre}
-            className="transition-transform duration-300 w-[90%] h-[80%] sm:w-[80%] sm:h-[80%] md:w-[100%] md:h-[80%] xl:w-[90%] xl:h-[90%]   object-cover group-hover:w-[75%] group-hover:h-[60%]  group-hover:translate-y-[-10%]  sm:group-hover:w-[60%] sm:group-hover:h-[65%] md:group-hover:w-[80%] md:group-hover:h-[75%] xl:group-hover:w-[65%] xl:group-hover:h-[85%]"
+            className="transition-transform duration-500 w-[90%] h-[80%] sm:w-[80%] sm:h-[80%] md:w-[100%] md:h-[80%] xl:w-[90%] xl:h-[90%]   object-cover group-hover:w-[75%] group-hover:h-[60%]  group-hover:translate-y-[-10%]  sm:group-hover:w-[60%] sm:group-hover:h-[65%] md:group-hover:w-[80%] md:group-hover:h-[75%] xl:group-hover:w-[65%] xl:group-hover:h-[85%]"
           />
           <h1 className="text-[#092469] text-2xl mt-2 font-bold">{nombre}</h1>
-          <div className="hidden group-hover:block w-full mt-4 transition-opacity duration-300">
+          <div className="hidden group-hover:block w-full mt-4 transition-opacity duration-500">
             <p className="text-black mt-2">{descripcion}</p>
             <div className="flex justify-around items-center w-full mt-4">
               <span className="text-black font-semibold">Q{precio}</span>
