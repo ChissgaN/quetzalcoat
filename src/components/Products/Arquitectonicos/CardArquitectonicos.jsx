@@ -1,4 +1,3 @@
-// CardArquitectonicos.js
 import React from "react";
 
 const generateWhatsAppLink = (nombre) => {
@@ -20,7 +19,7 @@ const CardArquitectonicos = ({ imagen, nombre, descripcion, precio }) => {
         <div className="hidden group-hover:block w-full mt-4 transition-opacity duration-500">
           <p className="text-black mt-2">{descripcion}</p>
           <div className="flex justify-around items-center w-full mt-4">
-            <span className="text-black font-semibold">Q{precio}</span>
+            <span className="text-black font-semibold text-lg lg:text-xl">Q{precio}.00</span>
             <a
               href={generateWhatsAppLink(nombre)}
               target="_blank"

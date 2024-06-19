@@ -5,7 +5,7 @@
         "titulo": "Selladores",
         "nombre": "Sellador 633",
         "imagen": "../imgProducts/arquitectonico/sellador633.png",
-        "precio": 120.50,
+        "precio": 225.00,
         "descripcion": "Sellador Blanco de gran resistencia a la alcalinidad.",
         "descripcionFull": "Posee pignmetno de gran poder cubriente y es promotor de la adherencia entre la pintura y la superficie."
       },
@@ -14,7 +14,7 @@
         "titulo": "Pinturas base de agua interiores/exteriores",
         "nombre": "High Standard Látex Mate",
         "imagen": "../imgProducts/arquitectonico/latexmate.png",
-        "precio": 120.50,
+        "precio": 320.00,
         "descripcion": "Máximo cubrimiento y alta lavabilidad de uso interno y externo.",
         "descripcionFull": "Disponible en blanco y bases de coloreo."
       },
@@ -23,7 +23,7 @@
         "titulo": "Pinturas base de agua interiores/exteriores",
         "nombre": "High Standard Látex Antibacterial Satín",
         "imagen": "../imgProducts/arquitectonico/antibacterial.png",
-        "precio": 120.50,
+        "precio": 765.00,
         "descripcion": "Excelente durabilidad y retencion del color, inhíbe el 99.9% de las bacterias.",
         "descripcionFull": "Resiste la humedad, el vapor de agua, manchas, grasas y lavado con químicos con hipoclorito y jabones de yodo."
       },
@@ -32,7 +32,7 @@
         "titulo": "Pinturas base de agua interiores/exteriores",
         "nombre": "Pro-plus Látex Mate",
         "imagen": "../imgProducts/arquitectonico/proplusLatexMate.png",
-        "precio": 120.50,
+        "precio": 1187.00,
         "descripcion": "Fácil de limpiar, uso para interiores y exteriores con secado rapido.",
         "descripcionFull": "Disponible en blanco y bases de coloreo con alto poder de cubrimiento en seco, protección contra hongos además se puede aplicar en concreto, tablayeso, fibrocemento, madera, metal, ladrillo y estucos, acabados mate y satinado."
       },
@@ -41,7 +41,7 @@
         "titulo": "Pinturas base de agua interiores/exteriores",
         "nombre": "Pro-plus Látex Satín",
         "imagen": "../imgProducts/arquitectonico/latexSatin.png",
-        "precio": 120.50,
+        "precio": 200.00,
         "descripcion": "Fácil de limpiar, uso para interiores y exteriores con secado rapido.",
         "descripcionFull": "Disponible en blanco y bases de coloreo con alto poder de cubrimiento en seco, protección contra hongos además se puede aplicar en concreto, tablayeso, fibrocemento, madera, metal, ladrillo y estucos, acabados mate y satinado."
       },
@@ -50,7 +50,7 @@
         "titulo": "Pinturas base de agua interiores",
         "nombre": "Pro Mate/Satín",
         "imagen": "../imgProducts/arquitectonico/baseAguaInterior.png",
-        "precio": 120.50,
+        "precio": 895.00,
         "descripcion": "Pinturas pro látex de bajo olor y acabado Mate.",
         "descripcionFull": "Secado rapido y alta protección de hongos con alto cubrimiento en seco. pintura para proteger superficies."
       },
@@ -59,7 +59,7 @@
         "titulo": "Impermeabilizantes",
         "nombre": "Dry block 3 en 1",
         "imagen": "../imgProducts/arquitectonico/dryBlock.png",
-        "precio": 120.50,
+        "precio": 327.00,
         "descripcion": "Excelente protección en paredes verticales.",
         "descripcionFull": "Genera triple protección gracias a su desarrollo tecnológico que le permite sellar, impermeabilizar y pintar."
       },
@@ -68,7 +68,7 @@
         "titulo": "Impermeabilizantes",
         "nombre": "Imper-Lock",
         "imagen": "../imgProducts/arquitectonico/imperLock.png",
-        "precio": 120.50,
+        "precio": 295.00,
         "descripcion": "Por su alto desempeño recomendado para paredes horizontales.",
         "descripcionFull": "Formulado para penetrar profundamente físuras, sellando la superficie y evitando filtraciones de agua, ya que es fabricado con resina a base de agua contiene alta resistencia al ensuciamiento."
       }

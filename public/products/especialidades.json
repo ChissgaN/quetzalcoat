@@ -5,7 +5,7 @@
         "titulo": "Madera",
         "nombre": "Metaltec Fast Dry 3 en 1 Base Agua",
         "imagen": "../imgProducts/especialidades/fastDryTresUno.png",
-        "precio": 120.50,
+        "precio": 315.00,
         "descripcion": "Uso interno y externo, con acabado transparente para imitar tonos naturares de madera.",
         "descripcionFull": "Gracias a su tecnología repele el agua, además contiene políuretano y resiste a los rayos UV."
       },
@@ -14,7 +14,7 @@
         "titulo": "Madera",
         "nombre": "Barniz Poliuretano",
         "imagen": "../imgProducts/especialidades/barnizPoliuretano.png",
-        "precio": 120.50,
+        "precio": 430.00,
         "descripcion": "Posee alta dureza y alta resistencia a químicos del hogar, resistente al trádico.",
         "descripcionFull": "Uso interior y exterior, con una base de solvente y resistente al rayado."
       }
