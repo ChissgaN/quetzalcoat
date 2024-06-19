@@ -19,7 +19,16 @@ const Branches = () => {
             style={{ border: 0, width: '100%', height: '300px' }}
           ></iframe>
           <h2 className="text-center py-3 text-lg font-medium">La Esperanza, Quetzaltenango</h2>
-          <p className="text-center mb-5">7ma. Av. 2-60 zona 1 La Esperanza, Quetzaltenango.</p>
+          <p className="text-center">7ma. Av. 2-60 zona 1 La Esperanza, Quetzaltenango.</p>
+          <a className="mb-5"
+            href="https://www.google.com/maps/place/14.869982,-91.558723/data=!3m1!1e3"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h3 className="text-center text-lg font-medium cursor-pointer text-blue-500 hover:text-blue-700">
+              Visitar
+            </h3>
+          </a>
         </div>
         <div className="hover:border hover:border-red-500 rounded-xl shadow-slate-500 shadow-md w-full max-w-[550px] transform hover:scale-105 transition duration-300 max-h-[500px]">
           <iframe
@@ -30,7 +39,16 @@ const Branches = () => {
             style={{ border: 0, width: '100%', height: '300px' }}
           ></iframe>
           <h2 className="text-center py-3 text-lg font-medium">Quetzaltenango, Quetzaltenango</h2>
-          <p className="text-center mb-5">20 Av. 1-11 zona 3 Quetzaltenango, Quetzaltenango.</p>
+          <p className="text-center">20 Av. 1-11 zona 3 Quetzaltenango, Quetzaltenango.</p>
+          <a className="mb-5"
+            href="https://www.google.com/maps/place/14.869982,-91.558723/data=!3m1!1e3"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h3 className="text-center text-lg font-medium cursor-pointer text-blue-500 hover:text-blue-700">
+              Visitar
+            </h3>
+          </a>
         </div>
       </section>
     </div>
