@@ -9,7 +9,7 @@ const Efectosvisuales = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/public/Efectos/Efectos.json")
+    fetch("/Efectos/Efectos.json")
       .then((response) => response.json())
       .then((data) => {
         setEfectosVisualesData(data.efectosVisuales);
