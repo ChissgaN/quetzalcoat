@@ -120,7 +120,7 @@ export default function NavBar() {
               </button>
             ) : (
               <Link
-                to="/"
+                to="/Inspiracion"
                 className="w-full"
                 size="lg"
               >

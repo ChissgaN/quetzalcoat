@@ -6,13 +6,13 @@ import otros from "../../assets/otros.webp";
 
 const Options = () => {
   return (
-    <div className="w-full mt-6">
-      <div className="w-full">
-        <h4 className="font-bold text-xl text-center">
+    <div className="w-full my-8">
+      <div className="w-full px-3" >
+        <h4 className="font-bold text-2xl md:text-3xl lg:text-4xl text-center text-[#e61588] mb-2">
           ¡Descubre nuestras opciones!
         </h4>
-        <p className="font-medium text-lg text-center">
-          Tenemos una solución para cada necesidad.
+        <p className="font-medium text-lg text-center sm:text-xl md:text-2xl">
+          Tenemos una solución para cada necesidad ya que contamos con más de 3,000 colores.
         </p>
       </div>
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 w-[80%] mx-auto my-8 justify-items-center">

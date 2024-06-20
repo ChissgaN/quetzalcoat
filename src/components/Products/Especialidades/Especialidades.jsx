@@ -18,7 +18,7 @@ const Especialidades = () => {
   }, []);
 
   return (
-    <div className="grid gap-8 sm:gap-8 md:gap-14 lg:gap-16 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center items-center ">
+    <div className="grid gap-8 sm:gap-8 md:gap-14 lg:gap-16 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 justify-center items-center ">
       {data.map((item) => (
         <CardEspecialidades
           key={item.id}

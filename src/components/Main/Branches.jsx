@@ -3,10 +3,10 @@ import { FaMapMarkerAlt } from 'react-icons/fa';
 const Branches = () => {
   return (
     <div className="px-3 mt-16">
-      <h1 className="text-center text-xl font-serif font-bold text-[#092469]">
+      <h1 className="text-center text-xl sm:text-2xl md:text-4xl font-serif font-bold text-[#092469]">
         ¡Tenemos una tienda cerca de ti!
       </h1>
-      <h3 className="text-center text-lg font-medium">
+      <h3 className="text-center text-lg sm:text-xl md:text-2xl lg:text-3xl  font-medium">
         Descubre nuestras ubicaciones y visita nuestras tiendas.
       </h3>
       <section className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full mx-auto my-12 px-8 lg:px-20 justify-items-center cursor-pointer">
