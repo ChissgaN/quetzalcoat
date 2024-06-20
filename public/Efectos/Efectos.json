@@ -1,0 +1,68 @@
+{
+    "efectosVisuales": [
+      {
+        "id": 1,
+        "nombre": "Alargar",
+        "imagen": "./imgEfectos/dos.webp",
+        "descripcion": "Con las superficies laterales y la superficie de fondo pintadas de un color uniforme logramos el efecto visual de alargar un espacio arquitectónico.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 2,
+        "nombre": "Estrechar",
+        "imagen": "./imgEfectos/tres.webp",
+        "descripcion": "La pintura uniforme en las superficies laterales de un ambiente nos permite ver a tal ambiente más estrecho con este efecto visual.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 3,
+        "nombre": "Destacar",
+        "imagen": "./imgEfectos/cuatro.webp",
+        "descripcion": "Con las superficies laterales y superior pintadas con el mismo color uniforme resaltamos o destacamos un ambiente arquitectónico.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 4,
+        "nombre": "Compactar",
+        "imagen": "./imgEfectos/cinco.webp",
+        "descripcion": "Si lo que buscamos es que un espacio se vea compacto todas las superficies deberan poseer el mismo color uniforme.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 5,
+        "nombre": "Agrandar",
+        "imagen": "./imgEfectos/seis.webp",
+        "descripcion": "Las superficies de fondo y superior uniformes logran el efecto visual, produce que la superficie arquitectónica sea más grande.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 6,
+        "nombre": "Acortar paredes",
+        "imagen": "./imgEfectos/siete.webp",
+        "descripcion": "Si las superficies laterales y de fondo se encuentran pintadas en la mitad superior las paredes toman el efecto acortado.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 7,
+        "nombre": "Acortar",
+        "imagen": "./imgEfectos/ocho.webp",
+        "descripcion": "Con la superficie de fondo pintada uniforme nos permite que el espacio arquitectónico tome un efecto visual corto en espacio.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 8,
+        "nombre": "Bajar el techo",
+        "imagen": "./imgEfectos/nueve.webp",
+        "descripcion": "Si el espacio superior se encuentra pintado completamente el espacio arquitectónico logra el efecto de bajar su techo.",
+        "descripcionFull": ""
+      },
+      {
+        "id": 9,
+        "nombre": "Ampliar",
+        "imagen": "./imgEfectos/diez.webp",
+        "descripcion": "Con cada superficie uniforme el ambiente nos permitirá lograr el efecto visual de ampliar un espacio arquitectonico.",
+        "descripcionFull": ""
+      }
+    ]
+  }
+  

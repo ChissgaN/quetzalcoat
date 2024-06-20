@@ -4,6 +4,7 @@ import MainArqui from "./components/Products/Arquitectonicos/MainArqui";
 import MainIndustri from "./components/Products/Industriales/MainIndustri";
 import MainEspe from "./components/Products/Especialidades/MainEspe";
 import "./App.css";
+import MainInspiration from "./components/Inspiration/MainInspiration";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="/productosArquitectonicos" element={<MainArqui />} />
           <Route path="/productosIndustriales" element={<MainIndustri />} />
           <Route path="/Especialidades" element={<MainEspe/>} />
+          <Route path="/Inspiracion" element={<MainInspiration/>} />
         </Routes>
       </HashRouter>
     </>

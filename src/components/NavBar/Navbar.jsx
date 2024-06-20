@@ -62,7 +62,7 @@ export default function NavBar() {
 
       <NavbarContent className="hidden sm:flex gap-8" justify="center">
         <NavbarItem>
-          <Link to="/" className="font-semibold text-[#092469] nav-link">
+          <Link to="/Inspiracion" className="font-semibold text-[#092469] nav-link">
             Inspiración
           </Link>
         </NavbarItem>
