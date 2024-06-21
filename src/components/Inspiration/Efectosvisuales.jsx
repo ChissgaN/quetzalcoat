@@ -75,7 +75,7 @@ const Efectosvisuales = () => {
 
   return (
     <div className="container mx-auto px-4 py-8 ">
-          <h1 className="mt-8 mb-4 flex justify-center text-center text-[#e61588] text-xl font-bold sm:text-2xl md:text-3xl">Efectos Visuales con el color en el entorno!</h1>
+          <h1 className="mt-8  flex justify-center text-center text-[#e61588] text-xl font-bold sm:text-2xl md:text-3xl">Efectos Visuales con el color en el entorno!</h1>
           <p className="flex justify-center text-center font-serif md:text-lg">La pintura en un espacio arquitectónico permite que se logren efectos visuales para dar vida a un espacio determinado, conoce más con nosotros!</p>
       <Slider {...settings}>
         {efectosVisualesData.map((efecto) => (
