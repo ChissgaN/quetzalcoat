@@ -8,19 +8,19 @@ const paletasData = [
     id: 1,
     nombre: "Paleta de invierno",
     imagen: invierno,
-    descripcion: "Descripción de la paleta de invierno.",
+    descripcion: "Colores frios de la temporada que permiten que un espacio inspire la sensación unica del invierno.",
   },
   {
     id: 2,
     nombre: "Paleta perfecta para tu hogar",
     imagen: hogar,
-    descripcion: "Descripción de la paleta perfecta para tu hogar.",
+    descripcion: "Con esta paleta tu espacio a pintar definitivamente se sentira como un hogar.",
   },
   {
     id: 3,
     nombre: "Paleta de la paz interior",
     imagen: pazinterior,
-    descripcion: "Descripción de la paleta de la paz interior.",
+    descripcion: "Cada color en esta paleta nos transmite una sensación de tranquilidad, confianza y paz.",
   },
 ];
 
@@ -68,12 +68,12 @@ const Paletas = () => {
             <p className="mt-2 text-gray-700 text-center">{selectedPaleta.descripcion}</p>
             <div className="mt-4 flex justify-center">
               <a
-                href={`https://wa.me/50236885254?text=Vi en la pagina web ${selectedPaleta.nombre} y quiero más información`}
+                href={`https://wa.me/50236885254?text=Vi en la pagina web la ${selectedPaleta.nombre} y quiero más información`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-[#e61588] text-white text-lg rounded-lg shadow-md hover:bg-[#c51476] transition duration-300 ease-in-out"
               >
-                Adquirir
+                Más información
               </a>
             </div>
           </div>

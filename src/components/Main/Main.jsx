@@ -4,6 +4,7 @@ import Options from './Options'
 import Footer from '../Footer/Footer'
 import Branches from './Branches'
 import Colorsyear from './Colorsyear'
+import Proyectos from './Proyectos'
 
 const Main = () => {
   return (
@@ -13,6 +14,7 @@ const Main = () => {
       <Options/>
       <Branches/>
       <Colorsyear/>
+      <Proyectos/>
       <Footer/>
     </div>
   )
