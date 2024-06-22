@@ -2,12 +2,12 @@ import { useState, useEffect } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import sliderMobilUno from "../../assets/sliderMobileUno.png";
-import sliderMobilDos from "../../assets/sliderMobileDos.png";
+import sliderMobilUno from "../../assets/sliderMobileUno.webp";
+import sliderMobilDos from "../../assets/sliderMobileDos.webp";
 import sliderMobilTres from "../../assets/sliderMobileTres.webp";
-import sliderUno from "../../assets/sliderUno.png";
-import sliderDos from "../../assets/sliderDos.png";
-import sliderTres from "../../assets/sliderTres.png";
+import sliderUno from "../../assets/sliderUno.webp";
+import sliderDos from "../../assets/sliderDos.webp";
+import sliderTres from "../../assets/sliderTres.webp";
 
 function SliderImg() {
   const [images, setImages] = useState([

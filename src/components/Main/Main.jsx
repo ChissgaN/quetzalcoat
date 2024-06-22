@@ -5,6 +5,7 @@ import Footer from '../Footer/Footer'
 import Branches from './Branches'
 import Colorsyear from './Colorsyear'
 import Proyectos from './Proyectos'
+import Automotriz from './Automotriz'
 
 const Main = () => {
   return (
@@ -12,6 +13,7 @@ const Main = () => {
       <NavBar/>
       <SliderImg/>
       <Options/>
+      <Automotriz/>
       <Branches/>
       <Colorsyear/>
       <Proyectos/>
